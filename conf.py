@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Color Block Encoding Specification'
-copyright = '2021, shensd'
-author = 'shensd'
+project = 'Rob-CBlock'
+copyright = '2021, Jack Hance'
+author = 'Jack Hance'
 
 
 # -- General configuration ---------------------------------------------------
